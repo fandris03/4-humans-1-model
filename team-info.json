@@ -1,0 +1,26 @@
+{
+    "team_name": "4 Humans, 1 Model",
+    "students": [
+        {
+            "student_id": "k12537172",
+            "first_name": "Gergő",
+            "last_name": "Borsodi",
+            "email": "borsodi.geri30@gmail.com",
+            "github_user": "borsodigerii"
+        },
+        {
+            "student_id": "k12351200",
+            "first_name": "Md Manjurur",
+            "last_name": "Rahman",
+            "email": "dinar1994@gmail.com",
+            "github_user": "dinar19941"
+        },
+        {
+            "student_id": "k12445535",
+            "first_name": "András",
+            "last_name": "Farkas",
+            "email": "farkas.andris.02@gmail.com",
+            "github_user": "fandris03"
+        }
+    ]
+}
