@@ -2,11 +2,18 @@
     "team_name": "4 Humans, 1 Model",
     "students": [
         {
-            "student_id": "k12537172",
-            "first_name": "Gergő",
-            "last_name": "Borsodi",
+            "student_id": "K12351575",
+            "first_name": "Anchana ",
+            "last_name": "Santhosh",
             "email": "borsodi.geri30@gmail.com",
-            "github_user": "borsodigerii"
+            "github_user": "anchanasanthosh-hue"
+        },
+        {
+            "student_id": "k12317216",
+            "first_name": "Simran  ",
+            "last_name": "Loach",
+            "email": "",
+            "github_user": ""
         },
         {
             "student_id": "k12351200",
