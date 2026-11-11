@@ -1,0 +1,25 @@
+{
+    "team_name": "4 Humans, 1 Model",
+    "students": [
+        {
+            "first_name": "Anchana ",
+            "last_name": "Santhosh",
+            "workload": "0.25"
+        },
+        {
+            "first_name": "Simran  ",
+            "last_name": "Loach",
+            "workload": "0.25"
+        },
+        {
+            "first_name": "Md Manjurur",
+            "last_name": "Rahman",
+            "workload": "0.25"
+        },
+        {
+            "first_name": "András",
+            "last_name": "Farkas",
+            "workload": "0.25"
+        }
+    ]
+}
